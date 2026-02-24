@@ -1,3 +1,9 @@
+# Discontinuing Support
+
+I'm going to stop supporting this version in the next couple of months, once the new version with updated data sources is ready.  For the very brave who want to play with the new one it's here https://github.com/jpettitt/Weather-Map-Card - note that not everyting works.  However it does have Radar, Precipitation, Temperature and Wind maps as well as up to 8 hours lookback and 48 hours forecast. It supports all zoom levels and both Mercator and Globe projections.  You will need a free MapTiler API key to use it.  
+
+*Expect it to be buggy and not yet feature complete*.
+
 # Breaking Changes V2.3.2
 
 
